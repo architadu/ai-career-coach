@@ -27,15 +27,8 @@ The **Full Stack AI Career Coach** is an advanced, AI-powered platform designed 
 - **Background Jobs:** Inngest
 - **AI & Data Integration:** Gemini API
 
-## 4. Prerequisites
 
-Before you begin, ensure you have the following installed:
-
-- [Node.js](https://nodejs.org/) (v16 or higher)
-- npm or yarn
-- Git
-
-## 6. Live Demo
+## 4. Live Demo
 
 Check out the final deployed app on Vercel:  
 [https://ai-career-coach-peach.vercel.app/](https://ai-career-coach-peach.vercel.app/)
