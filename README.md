@@ -1,13 +1,13 @@
-## 4. Live Demo
+## 1. Live Demo
 
 Check out the final deployed app on Vercel:  
-[Link to website](https://ai-career-coach-qtuapff6e-archita-duttas-projects.vercel.app/)
+[Link to website](https://ai-career-coach-nu-five.vercel.app/)
 
-## 1. Overview
+## 2. Overview
 
 The **Full Stack AI Career Coach** is an advanced, AI-powered platform designed to guide you through your career journey. It offers tailored industry insights, dynamic resume and cover letter builders, and interactive interview preparation with quizzes. This application leverages a modern tech stack to provide an engaging and responsive user experience.
 
-## 2. Features
+## 3. Features
 
 - 🔒 **User Authentication:** Secure sign-up and login powered by Clerk.
 - 📊 **Industry Insights Dashboard:** Access detailed market outlooks, industry growth statistics, demand analysis, top skills, salary ranges, and more.
@@ -17,7 +17,7 @@ The **Full Stack AI Career Coach** is an advanced, AI-powered platform designed 
 - ⚙️ **Background Processing:** Automate tasks and data handling using Inngest.
 - 📱 **Responsive Design:** Enjoy a fully responsive UI built with Tailwind CSS and Shadcn UI.
 
-## 3. Tech Stack
+## 4. Tech Stack
 
 - **Frontend:**
   - React 19 ![React Icon](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
