@@ -1,3 +1,8 @@
+## 4. Live Demo
+
+Check out the final deployed app on Vercel:  
+[Link to website](https://ai-career-coach-qtuapff6e-archita-duttas-projects.vercel.app/)
+
 ## 1. Overview
 
 The **Full Stack AI Career Coach** is an advanced, AI-powered platform designed to guide you through your career journey. It offers tailored industry insights, dynamic resume and cover letter builders, and interactive interview preparation with quizzes. This application leverages a modern tech stack to provide an engaging and responsive user experience.
@@ -28,7 +33,4 @@ The **Full Stack AI Career Coach** is an advanced, AI-powered platform designed 
 - **AI & Data Integration:** Gemini API
 
 
-## 4. Live Demo
 
-Check out the final deployed app on Vercel:  
-[https://ai-career-coach-peach.vercel.app/](https://ai-career-coach-peach.vercel.app/)
