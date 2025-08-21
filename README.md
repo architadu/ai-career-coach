@@ -11,6 +11,7 @@
 - **After Sign In**
 ![image alt](7.png)
 ![image alt](8.png)
+- **Industry Insights**
 ![image alt](9.png)
 ![image alt](10.png)
 ![image alt](11.png)
