@@ -1,7 +1,3 @@
-## 1. Live Demo
-
-Check out the final deployed app on Vercel:  
-[Link to website](https://ai-career-coach-nu-five.vercel.app/)
 
 ## 2. Overview
 
@@ -31,6 +27,11 @@ The **Full Stack AI Career Coach** is an advanced, AI-powered platform designed 
 - **Authentication:** Clerk Authentication
 - **Background Jobs:** Inngest
 - **AI & Data Integration:** Gemini API
+
+## 5. Live Demo
+
+Check out the final deployed app on Vercel:  
+[Link to website](https://ai-career-coach-nu-five.vercel.app/)
 
 
 
