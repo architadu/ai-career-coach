@@ -17,8 +17,10 @@
 - **Resume Builder**
 ![image alt](11.png)
 ![image alt](12.png)
+- **Cover Letter Generator**
 ![image alt](13.png)
 ![image alt](14.png)
+- **Interview Preperation**
 ![image alt](15.png)
 ![image alt](16.png)
 ![image alt](17.png)
