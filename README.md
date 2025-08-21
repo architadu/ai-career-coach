@@ -20,10 +20,10 @@ The **Full Stack AI Career Coach** is an advanced, AI-powered platform designed 
 ## 4. Tech Stack
 
 - **Frontend:**
-  - React 19 ![React Icon](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  - Next.js 15 ![Next.js Icon](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-  - Tailwind CSS ![Tailwind Icon](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  - Shadcn UI (custom components)
+  - React 19
+  - Next.js 15 
+  - Tailwind CSS 
+  - Shadcn UI 
 - **Backend:**
   - Next.js API Routes
   - Prisma ORM
