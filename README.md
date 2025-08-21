@@ -14,6 +14,7 @@
 - **Industry Insights**
 ![image alt](9.png)
 ![image alt](10.png)
+- **Resume Builder**
 ![image alt](11.png)
 ![image alt](12.png)
 ![image alt](13.png)
