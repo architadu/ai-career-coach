@@ -19,6 +19,7 @@
 ![image alt](12.png)
 - **Cover Letter Generator**
 ![image alt](13.png)
+![image alt](18.png)
 - **Interview Preperation**
 ![image alt](14.png)
 ![image alt](15.png)
